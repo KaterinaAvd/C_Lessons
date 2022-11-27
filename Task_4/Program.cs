@@ -6,16 +6,16 @@ int b = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите целое число C: ");
 int c = Convert.ToInt32(Console.ReadLine());
 int d = a;
-if(b >= d) 
+if(b >= d)
 {
     d = b;
 }
 if(c>=d)
 {
     d = c;
-    Console.WriteLine(d);
+    Console.WriteLine($"Максимальное число {d}");
 }
 else
 {
-    Console.WriteLine(d);
+    Console.WriteLine($"Максимальное число {d}");
 }
