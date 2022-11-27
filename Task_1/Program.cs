@@ -1,7 +1,7 @@
 ﻿Console.Clear();
-Console.Write("Введите число А: ");
+Console.Write("Введите целое число А: ");
 int a = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите число B: ");
+Console.Write("Введите целое число B: ");
 int b = Convert.ToInt32(Console.ReadLine());
 if(a >= b) 
 {
