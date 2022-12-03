@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\С_Lesson_2\Task_Bonus\obj\Debug\net6.0\Task_Bonus.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\С_Lesson_2\Task_Bonus\obj\Debug\net6.0\Task_Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\С_Lesson_2\Task_Bonus\obj\Debug\net6.0\Task_Bonus.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\С_Lesson_2\Task_Bonus\obj\Debug\net6.0\Task_Bonus.AssemblyInfo.cs
+C:\Users\user\Desktop\С_Lesson_2\Task_Bonus\obj\Debug\net6.0\Task_Bonus.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\С_Lesson_2\Task_Bonus\bin\Debug\net6.0\Task_Bonus.exe
+C:\Users\user\Desktop\С_Lesson_2\Task_Bonus\bin\Debug\net6.0\Task_Bonus.deps.json
+C:\Users\user\Desktop\С_Lesson_2\Task_Bonus\bin\Debug\net6.0\Task_Bonus.runtimeconfig.json
+C:\Users\user\Desktop\С_Lesson_2\Task_Bonus\bin\Debug\net6.0\Task_Bonus.dll
+C:\Users\user\Desktop\С_Lesson_2\Task_Bonus\bin\Debug\net6.0\Task_Bonus.pdb
+C:\Users\user\Desktop\С_Lesson_2\Task_Bonus\obj\Debug\net6.0\Task_Bonus.dll
+C:\Users\user\Desktop\С_Lesson_2\Task_Bonus\obj\Debug\net6.0\refint\Task_Bonus.dll
+C:\Users\user\Desktop\С_Lesson_2\Task_Bonus\obj\Debug\net6.0\Task_Bonus.pdb
+C:\Users\user\Desktop\С_Lesson_2\Task_Bonus\obj\Debug\net6.0\Task_Bonus.genruntimeconfig.cache
+C:\Users\user\Desktop\С_Lesson_2\Task_Bonus\obj\Debug\net6.0\ref\Task_Bonus.dll
